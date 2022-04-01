@@ -1,4 +1,4 @@
-### Hi there, I'm Faisal AL- Hanini | فيصل الحنيني 👋
+### Hi there, I'm Faisal AL- Hanini 👋
 
 
 ## I'm  Developer !
@@ -52,5 +52,6 @@
 
 
 [twitter]: https://twitter.com/xf9iix
-[linkedin]: https://www.linkedin.com/in/waseel
-[instagram]: https://www.instagram.com/xf9iix/
+[linkedin]: https://www.linkedin.com/in/waseel 
+<a href="https://www.instagram.com/xf9iix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.boy_" height="30" width="40" /></a>
+
