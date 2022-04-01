@@ -30,5 +30,5 @@
 
 
 [twitter]: https://twitter.com/xf9iix
-[linkedin]: https://www.linkedin.com/in/waseel
+[linkedin]: https://www.linkedin.com/in/xf9iix
 
