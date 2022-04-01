@@ -4,7 +4,7 @@
 ## I'm  Developer !
 
 - 🔭 I am currently working as a freelance developer 
-- 🌱 I am learning everything right now 🤣
+- 🌱 I am learning everything right now 
 - 🥅  goals: Contribute more to open source projects
 - ⚡ Fun fact: Never give up. Great things take time. Be patient
 
