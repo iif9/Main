@@ -12,9 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="xf9iix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="faisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.instagram.com/xf9iix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.boy_"  width="22" /></a>
 
 
 
@@ -27,6 +25,6 @@
 
 
 
-[twitter]: https://twitter.com/xf9iix
+
 [linkedin]: https://www.linkedin.com/in/xf9iix
 
